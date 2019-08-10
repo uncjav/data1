@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<playlist > 
+<tracklist> 
+
+<track> 
+<title>Tiêu đề bài hát 1</title> 
+<annotation>Mô tả 1</annotation> 
+<location>https://tinyurl.com/y2qucwmt</location> 
+<image>https://1.bp.blogspot.com/-j1urgNfDEQc/XUzVklROLSI/AAAAAAAAAhg/swehVyYFO0sgU7-jN8j9YNyh1ENAQYofQCLcBGAs/s0/041415_061.jpg</image> 
+</track> 
+
+<track> 
+<title>Tiêu đề bài hát 2</title> 
+<annotation>Mô tả 2</annotation> 
+<location>https://tinyurl.com/y2qucwmt</location> 
+<image>https://1.bp.blogspot.com/-j1urgNfDEQc/XUzVklROLSI/AAAAAAAAAhg/swehVyYFO0sgU7-jN8j9YNyh1ENAQYofQCLcBGAs/s0/041415_061.jpg</image> 
+</track> 
+
+</tracklist> 
+</playlist>
