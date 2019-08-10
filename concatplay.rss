@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Mattrunks</title>
+  <description></description>
+  <itunes:keywords>mattrunks</itunes:keywords>
+  <item>
+    <title>Lights &amp; Colors</title>
+    <description>After Effects project end result clip</description>
+    <pubDate>Fri, 13 Apr 2012 13:13:00 -0000</pubDate>
+    <guid isPermaLink="false">xAU6qr2H</guid>
+    <enclosure url="https://tinyurl.com/y2qucwmt" length="3606468" type="video/mp4" />
+    <itunes:author>Mattrunks.com</itunes:author>
+    <itunes:duration>16</itunes:duration>
+    <itunes:keywords>mattrunks</itunes:keywords>
+    <media:content url="https://tinyurl.com/y2qucwmt" type="video/mp4" duration="16.56" fileSize="3606468" >
+      <media:thumbnail url="" width="720"/>
+      <media:credit>Mattrunks.com</media:credit>
+      <media:keywords>mattrunks</media:keywords>
+    </media:content>
+  </item>
+</channel>
+</rss>
