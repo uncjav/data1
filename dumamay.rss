@@ -1,0 +1,20 @@
+﻿<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" > 
+  <channel>
+
+    <item>
+      <title>Sintel</title>
+      <description>Sintel is a fantasy computer generated short movie. It's the third 
+         release from the Blender Open Movie Project.</description>
+      <media:thumbnail url="http://example.com/thumbs/sintel.jpg" />
+      <media:content url="//tinyurl.com/y2qucwmt"  width="640"
+         height="360" type="video/mp4"/>
+      <media:content url="//tinyurl.com/y2qucwmt" 
+         height="720" type="video/mp4" width="1280" />
+      <media:content url="http://example.com/videos/sintel.webm" 
+         height="360" type="video/webm" width="640" />
+      <media:content url="http://example.com/videos/sintel-hd.webm" 
+         height="720" type="video/webm" width="1280" /> 
+    </item>
+
+  </channel>
+</rss>
