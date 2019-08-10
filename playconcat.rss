@@ -1,12 +1,9 @@
-<rss version="2.0" xmlns:jwplayer="http://rss.jwpcdn.com/">
+<?xml version='1.0' encoding='UTF-8'?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0">
 <channel>
-
   <item>
     <title>Sintel Trailer</title>
     <description>Sintel is a fantasy CGI from the Blender Open Movie Project.</description>
     <jwplayer:image>/assets/sintel.jpg</jwplayer:image>
     <jwplayer:source file="https://lh3.googleusercontent.com/DueuoLW-tUAAl2cRs1mAA5Zz54RFD0uO7aZ4y_VNpBU=m22" type="video/mp4" />
   </item>
-
 </channel>
-</rss>
