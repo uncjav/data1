@@ -1,0 +1,12 @@
+<rss version="2.0" xmlns:jwplayer="http://rss.jwpcdn.com/">
+<channel>
+
+  <item>
+    <title>Sintel Trailer</title>
+    <description>Sintel is a fantasy CGI from the Blender Open Movie Project.</description>
+    <jwplayer:image>/assets/sintel.jpg</jwplayer:image>
+    <jwplayer:source file="https://lh3.googleusercontent.com/DueuoLW-tUAAl2cRs1mAA5Zz54RFD0uO7aZ4y_VNpBU=m22" type="video/mp4" />
+  </item>
+
+</channel>
+</rss>
