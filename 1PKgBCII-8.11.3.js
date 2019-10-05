@@ -23,7 +23,7 @@ var jwDefaults = {
   "height": 270,
   "key": "sSCMDcWyDPHbJQoQULOgU8C2/CY2z6DY0wewaK1L85QXqvvarcnGE/1oTkE=",
   "logo": {
-    "file": "https://assets-jpcust.jwpsrv.com/watermarks/RLI5gY9T.png",
+    "file": "https://1.bp.blogspot.com/-1mgwTTQjYJQ/XZhN2lzsY_I/AAAAAAAAC8s/9rmoE9M2Xhs_PFXN1YHB_OEOSTFld34QACLcBGAsYHQ/s0/logo.png",
     "hide": false,
     "link": "https://www.myweb.com",
     "margin": "10",
@@ -41,7 +41,7 @@ var jwDefaults = {
     },
     "menus": {
       "background": "rgba(0, 0, 0, 0)",
-      "text": "rgba(255, 191, 0, 0.8)"
+      "text": "rgba(255, 191, 0, 0.5)"
     }
   },
   "stagevideo": false,
